@@ -35,4 +35,13 @@ Welcome to Jobify, your ultimate destination for a seamless job hunting experien
 - 🌓 **Dark Mode and Light Mode**
   - Personalize your job searching experience with both dark and light modes.
   - Optimal viewing in any lighting condition.
-    Explore Jobify, discover the perfect job opportunities, and let Jobify be your trusted partner in your career search.
+## Technologies Used
+
+- Mongoose
+- JWT
+- Express
+- React.js
+- NextUI
+- Firebase
+
+ Explore Jobify, discover the perfect job opportunities, and let Jobify be your trusted partner in your career search.
